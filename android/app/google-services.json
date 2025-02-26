@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "325453491307",
+        "project_id": "mental-health-2c752",
+        "storage_bucket": "mental-health-2c752.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:325453491307:android:d13f5fe5b333508423d52e",
+            "android_client_info": {
+                "package_name": "com.example.caress"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyBKlhQ9KD7JicT_RK9QphBatBoRMso1k-0"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
